@@ -1,3 +1,6 @@
+org: dominiconorton
+app: hero-helper
+
 service: aws-node-simple-http-endpoint
 
 frameworkVersion: ">=1.1.0 <2.0.0"
